@@ -1,0 +1,10 @@
+D:\Nekfa-Practicale\vehicale-management-system\bin\Debug\vehicale-management-system.exe.config
+D:\Nekfa-Practicale\vehicale-management-system\bin\Debug\vehicale-management-system.exe
+D:\Nekfa-Practicale\vehicale-management-system\bin\Debug\vehicale-management-system.pdb
+D:\Nekfa-Practicale\vehicale-management-system\obj\Debug\vehicale-management-system.csproj.AssemblyReference.cache
+D:\Nekfa-Practicale\vehicale-management-system\obj\Debug\vehicale_management_system.homePage.resources
+D:\Nekfa-Practicale\vehicale-management-system\obj\Debug\vehicale_management_system.Properties.Resources.resources
+D:\Nekfa-Practicale\vehicale-management-system\obj\Debug\vehicale-management-system.csproj.GenerateResource.cache
+D:\Nekfa-Practicale\vehicale-management-system\obj\Debug\vehicale-management-system.csproj.CoreCompileInputs.cache
+D:\Nekfa-Practicale\vehicale-management-system\obj\Debug\vehicale-management-system.exe
+D:\Nekfa-Practicale\vehicale-management-system\obj\Debug\vehicale-management-system.pdb

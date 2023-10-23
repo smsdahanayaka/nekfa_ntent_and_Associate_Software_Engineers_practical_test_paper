@@ -1,0 +1,12 @@
+D:\Nekfa-Practicale\vehicale-management-system\obj\Debug\vehicale_management_system.csproj.AssemblyReference.cache
+D:\Nekfa-Practicale\vehicale-management-system\obj\Debug\vehicale_management_system.Properties.Resources.resources
+D:\Nekfa-Practicale\vehicale-management-system\obj\Debug\vehicale_management_system.csproj.GenerateResource.cache
+D:\Nekfa-Practicale\vehicale-management-system\obj\Debug\vehicale_management_system.csproj.CoreCompileInputs.cache
+D:\Nekfa-Practicale\vehicale-management-system\obj\Debug\vehicale-management-system.exe
+D:\Nekfa-Practicale\vehicale-management-system\obj\Debug\vehicale-management-system.pdb
+D:\Nekfa-Practicale\vehicale-management-system\bin\Debug\vehicale-management-system.exe.config
+D:\Nekfa-Practicale\vehicale-management-system\bin\Debug\vehicale-management-system.exe
+D:\Nekfa-Practicale\vehicale-management-system\bin\Debug\vehicale-management-system.pdb
+D:\Nekfa-Practicale\vehicale-management-system\obj\Debug\vehicale_management_system.view.AddNewVehicleForm.resources
+D:\Nekfa-Practicale\vehicale-management-system\obj\Debug\vehicale_management_system.view.HomePageForm.resources
+D:\Nekfa-Practicale\vehicale-management-system\obj\Debug\vehicale_management_system.view.ViewVehicleForm.resources
